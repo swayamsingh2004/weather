@@ -20,10 +20,6 @@ Built using **HTML, CSS, and JavaScript**, with data powered by a weather API.
 - **JavaScript** – Logic and API integration  
 - **OpenWeatherMap API** (or any other weather API)
 
----
-
-## 📷 Screenshots
-(Add screenshots here once you have them)
 
 ---
 
@@ -31,3 +27,4 @@ Built using **HTML, CSS, and JavaScript**, with data powered by a weather API.
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/weather.git
+
